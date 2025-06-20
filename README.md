@@ -4,7 +4,12 @@ Kaizonigma is a relentless ROM hack built upon the legendary SNES classic Terran
 Dungeons have been redesigned, turning once-familiar paths into dangerous mazes filled with deadly traps and ambushes. Enemies hit like trucks, often leaving you with no room for error — nearly every mistake is fatal. Combat is unforgiving, movement must be precise, and survival demands mastery.
 
 **But this is only the beginning.**
-
+<p align="center">
+<img src="https://exec6.com/romhacks/terranigma/kaizonigma5.png" width="800" height="800" border="10"/>
+</p>
+<p align="center">
+<img src="https://exec6.com/romhacks/terranigma/kaizonigma4.png" width="200" height="200" border="10"/> <img src="https://exec6.com/romhacks/terranigma/kaizonigma3.png" width="200" height="200" border="10"/> <img src="https://exec6.com/romhacks/terranigma/kaizonigma2.png" width="200" height="200" border="10"/> <img src="https://exec6.com/romhacks/terranigma/kaizonigma1.png" width="200" height="200" border="10"/>
+</p>
 
 Areas may change, mechanics may evolve, and surprises are hidden around every corner. Some moments may feel like bugs or broken design — but in truth, many of them are intentional. You’ll encounter mind games, fake-outs, and the occasional well-placed troll designed to mess with even the most confident player.
 
